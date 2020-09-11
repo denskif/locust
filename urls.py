@@ -1,0 +1,5 @@
+LIST_GAMES = "/gapi/ccp.v2.casino.Games/ListGames"
+CHECK_SESSION = "/gapi/egt.auth.v1.WebAuthService/CheckSession"
+EGT_JACKPOT_STREAM = "/gapi/ccp.v2.casino.Widgets/GetEgtJackpotStream"
+LIST_LAST_WINNERS = "/gapi/ccp.v2.casino.Widgets/ListLastWinners"
+LIST_TOP_WINNERS = "/gapi/ccp.v2.casino.Widgets/ListTopWinners"
